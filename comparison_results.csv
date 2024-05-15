@@ -1,0 +1,5 @@
+Path in Folder1,Path in Folder2,File Size Comparison,Modification Time Comparison,Content Comparison,Size in Folder1,Size in Folder2,Modification Time in Folder1,Modification Time in Folder2
+ボディ1.stl,ボディ1.stl,Identical,Identical,Identical,264184,264184,1714709454.8581455,1714709454.8581455
+DSC04189@0.5x_bokeFix.jpg,DSC04189@0.5x_bokeFix.jpg,Identical,Identical,Identical,348799,348799,1715579047.5190547,1715579047.5190547
+DSC04189@0.5x.jpg,DSC04189@0.5x.jpg,Missing in folder1,,,,
+DSC04189@0.5.jpg,DSC04189@0.5.jpg,,Missing in folder2,,,
